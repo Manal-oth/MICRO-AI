@@ -4,7 +4,7 @@ MICRO-AI: Machine Learning-Based DNA Microarray Analysis for Disease Detection
 A comprehensive machine learning framework for high-resolution DNA microarray data 
 analysis and automated disease detection.
 
-Author: maothman
+Author: Dr.Manal othman
 """
 
 import numpy as np
